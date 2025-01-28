@@ -27,6 +27,7 @@
 - [Resources](#resources)
     - [Tutorials](#tutorials)
     - [Blogs](#blogs)
+    - [Books](#books)
     - [Articles](#articles)
     - [Documentation](#documentation)
     - [Newsletters](#newsletters)
@@ -255,6 +256,8 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 ### Books
 
 * [PostGIS in Action, Third Edition](https://www.manning.com/books/postgis-in-action-third-edition) - A book about writing spatial queries for PostgreSQL.
+* [Just Use Postgres!](https://www.manning.com/books/just-use-postgres) - A book about how to get the most out of the PostgreSQL database.
+  
 ### Articles
 
 * [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
